@@ -1,12 +1,12 @@
 <h1 align="center">Kasper</h1>
 
-<p align="center">Leon is an Html + Css project</p>
+<p align="center">Kasper is an Html + Css project</p>
 
 ## Links
 
-- [Repo]([https://github.com/Rohit19060/<project-name> "<project-name> Repo"](https://github.com/Marwan-11/html-css-template-2.git)https://github.com/Marwan-11/html-css-template-2)
+- [Repo](https://github.com/Marwan-11/html-css-template-2.git)
 
-- [Live]([<Homepage url> "Live View"](https://marwan-11.github.io/html-css-template-2/)https://marwan-11.github.io/html-css-template-2/)
+- [Live](https://marwan-11.github.io/html-css-template-2/)
 
 ## Screenshots
 
