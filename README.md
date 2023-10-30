@@ -1,6 +1,6 @@
 <h1 align="center">Kasper</h1>
 
-<p align="center">Kasper is an Html + Css project</p>
+<p align="center">This project involves customizing and building a website based on the "Kasper Template." The "Kasper Template" serves as the foundation for creating a unique and personalized website. The task is to adapt the template to meet specific design and content requirements, showcasing your web design and development skills.</p>
 
 ## Links
 
